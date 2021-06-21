@@ -12,5 +12,6 @@ namespace  CommanderGQL.Models
         public string CommandLine { get; set; }
         [Required]
         public int PlatformId { get; set; }
+        public Platform Platform { get; set; }
     }
 }

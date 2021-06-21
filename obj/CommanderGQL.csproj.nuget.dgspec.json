@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\Users\\Joel.Scott\\source\\repos\\CommanderGQL\\CommanderGQL.csproj",
         "projectName": "CommanderGQL",
         "projectPath": "C:\\Users\\Joel.Scott\\source\\repos\\CommanderGQL\\CommanderGQL.csproj",
-        "packagesPath": "C:\\Users\\Joel.Scott\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Joel Scott\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Joel.Scott\\source\\repos\\CommanderGQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -18,7 +18,7 @@
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Joel.Scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joel Scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WinForms.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -48,7 +48,7 @@
           "dependencies": {
             "GraphQL.Server.Ui.Voyager": {
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[4.4.1, )"
             },
             "HotChocolate.AspNetCore": {
               "target": "Package",
